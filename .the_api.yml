@@ -1,0 +1,2 @@
+token: <your token cames here>
+url: https://digitalapi.auspost.com.au/postage/parcel/domestic/calculate.json
